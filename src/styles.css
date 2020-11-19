@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+a,
+a:hover {
+  color: gray !important;
+  text-decoration: none !important;
+}
+li {
+  padding: 0px 5px;
+}
+.card-text {
+  max-height: 72px;
+  overflow: hidden;
+}
